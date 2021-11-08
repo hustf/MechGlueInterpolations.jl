@@ -1,7 +1,11 @@
 name = "MechGlueInterpolations"
 uuid = "a2cecc3b-2043-4d36-9615-d8139ca22695"
 authors = ["hustf <hustf@users.noreply.github.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
+
+[deps]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+Unitfu = "5ee08b94-2369-4f4a-b8c7-99333ba35fb0"
 
 [compat]
 julia = "1"
